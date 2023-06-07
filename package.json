@@ -1,0 +1,8 @@
+{
+  "name": "02_sharp-resize",
+  "packageManager": "yarn@3.6.0",
+  "dependencies": {
+    "sharp": "^0.32.1",
+    "tsx": "^3.12.7"
+  }
+}
